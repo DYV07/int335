@@ -87,7 +87,7 @@ npm run dev
 Open the local URL provided by Vite, usually:
 
 ```text
-http://localhost:5173
+https://int335-beryl.vercel.app/
 ```
 
 ---
